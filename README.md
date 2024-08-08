@@ -38,8 +38,8 @@ Este proyecto te permite interactuar con una galería de imágenes de autos de F
 ### 1. **Clonar el Repositorio**
 
 ```bash
-git clone https://github.com/gfranco7/f1-gallery.git
-cd f1-gallery
+git clone https://github.com/gfranco7/F1-Gallery.git
+cd F1-Gallery
 ````
 
 ### 2. Abrir en Visual Studio Code
