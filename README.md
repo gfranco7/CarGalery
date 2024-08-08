@@ -31,13 +31,16 @@ Este proyecto te permite interactuar con una galería de imágenes de autos de F
 │   └── ...         # Imágenes de ejemplo
 │
 └── index.html      # Página principal
+```
+
 ## 🚀 Cómo Usar
 
 ### 1. **Clonar el Repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/f1-gallery.git
+git clone https://github.com/gfranco7/f1-gallery.git
 cd f1-gallery
+````
 
 ### 2. Abrir en Visual Studio Code
 code.
@@ -48,7 +51,9 @@ Simplemente abre el archivo index.html en tu navegador favorito.
 ### 4. Interacción con la Galería
 - Eliminar Imágenes: Haz clic en el botón Eliminar en cualquier imagen para quitarla de la galería.
 
-🖼️ ### Capturas de Pantalla
+### 🖼️Capturas de Pantalla
+![image](https://github.com/user-attachments/assets/93987b8c-50b5-4374-a111-16a72f81de5d)
+
 
 ### 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Puedes clonar el repositorio, hacer mejoras, y enviar un pull request.
